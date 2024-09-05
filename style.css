@@ -33,6 +33,9 @@ a {
     padding: 50px;
     color: white;
 }
+.nav a {
+    font-style: italic;
+}
 .left-nav {
     display: flex;
     flex-direction: column;
