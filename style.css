@@ -84,7 +84,7 @@ a {
     justify-content: center;
     padding: 50px;
     gap: 15px;
-    font-size: 60px;
+    font-size: 30px;
 
 }
 .call-to-action a {
@@ -119,7 +119,7 @@ height: auto;
 }
 
 .resize-three {
-    width: 500px;
+    width: 250px;
     height: auto;
 }
 ul{
